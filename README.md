@@ -23,3 +23,7 @@
 3)sudo apt-get update
 4)sudo apt-get install jenkins
 
+//Install Ansible
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-22-04
+
+
